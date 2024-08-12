@@ -1,14 +1,18 @@
-import React from 'react'
+import React,{useEffect} from 'react'
 import { FaArrowRight,FaArrowLeft } from "react-icons/fa6";
+
 const Category = () => {
     const [category,setCategory]=useState([]);
     const fetchCategory=async ()=>{
-        const response=await fetch("./data/category.json");
+        const response=await fetch("");
         const data=await response.json();
+        setCategory(data)
+       
+        
     }
-
+   
     useEffect(()=>{
-
+       
     },[])
   return (
     <div className='max-w-[1200px] mx-auto r'>
@@ -23,6 +27,15 @@ const Category = () => {
                 </div>           
            </div>
         </div>
+        <div className='flex'>
+    {
+       category.map((item,index)=>{
+        return (<div>
+           <img key={index} src={item.image} alt="" />
+        </div>)
+       })
+    }
+</div>
 
     </div>
   )
