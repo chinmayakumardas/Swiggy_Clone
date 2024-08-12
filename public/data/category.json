@@ -1,83 +1,83 @@
-
 [
+   
     {
-        "image": "North_Indian_4.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/North_Indian_4.jpeg",
         "path": "north-indian"
     },
     {
-        "image": "Pizza.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Pizza.jpeg",
         "path": "pizza"
     },
     {
-        "image": "Noodles.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Noodles.jpeg",
         "path": "noodles"
     },
     {
-        "image": "Pasta.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Pasta.jpeg",
         "path": "pasta"
     },
     {
-        "image": "Paratha.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Paratha.jpeg",
         "path": "paratha"
     },
     {
-        "image": "Biryani_2.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Biryani_2.jpeg",
         "path": "biryani"
     },
     {
-        "image": "Burger.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Burger.jpeg",
         "path": "burger"
     },
     {
-        "image": "Cakes.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Cakes.jpeg",
         "path": "cakes"
     },
     {
-        "image": "Chinese.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Chinese.jpeg",
         "path": "chinese"
     },
     {
-        "image": "Chole_Bature.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Chole_Bature.jpeg",
         "path": "chole-bature"
     },
     {
-        "image": "Dosa.jpeg",
-        "path": "dost"
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Dosa.jpeg",
+        "path": "dosa"
     },
     {
-        "image": "Gulab_Jamun.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Gulab_Jamun.jpeg",
         "path": "gulab-jamun"
     },
     {
-        "image": "Ice_Creams.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Ice_Creams.jpeg",
         "path": "ice-creams"
     },
     {
-        "image": "Idli.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Idli.jpeg",
         "path": "idli"
     },
     {
-        "image": "Khichdi.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Khichdi.jpeg",
         "path": "khichdi"
     },
     {
-        "image": "Poori.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Poori.jpeg",
         "path": "poori"
     },
     {
-        "image": "Pure_Veg.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Pure_Veg.jpeg",
         "path": "pure-veg"
     },
     {
-        "image": "Rolls.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Rolls.jpeg",
         "path": "rolls"
     },
     {
-        "image": "Salad.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/Salad.jpeg",
         "path": "salad"
     },
     {
-        "image": "South_Indian_4.jpeg",
+        "image": "https://raw.githubusercontent.com/chinmayakumardas/swiggy_clone/main/public/data/images/South_Indian_4.jpeg",
         "path": "south-indian"
     }
 ]
